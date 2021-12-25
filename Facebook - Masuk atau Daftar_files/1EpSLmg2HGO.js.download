@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["KLLGkKT"]); }
+
+__d("FluxStoreOnDispatchInstrumentation",["SimpleHook"],(function(a,b,c,d,e,f,g){"use strict";a=new(d("SimpleHook").SimpleHook)();g["default"]=a}),98);
+__d("uuid",[],(function(a,b,c,d,e,f){function a(){return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,function(a){var b=Math.random()*16|0;a=a=="x"?b:b&3|8;return a.toString(16)})}f["default"]=a}),66);
